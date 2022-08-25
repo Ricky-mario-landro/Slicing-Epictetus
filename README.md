@@ -1,4 +1,6 @@
-![Uzoma Medium Gif](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
+<p align="center">
+  <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" alt="animated" />
+</p>
 
 # Use Next.js + Tailwind CSS
 
